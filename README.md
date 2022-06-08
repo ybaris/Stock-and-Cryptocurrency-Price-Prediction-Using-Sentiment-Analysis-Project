@@ -1,4 +1,6 @@
-# Stock and Cryptocurrency Price Prediction Using Sentiment Analysis - Int. to Natural Language Processing---DATA-690
+# Stock and Cryptocurrency Price Prediction Using Sentiment Analysis Project
+
+## Int. to Natural Language Processing---DATA-690
 
 Performed multiple homeworks and 1 project for this course. 
 
