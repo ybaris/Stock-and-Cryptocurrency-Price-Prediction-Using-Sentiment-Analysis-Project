@@ -23,11 +23,13 @@ Refer to Report.docx for full report with images.
 * NLP_Project_model_Final:<br>
 Models are created and tested on cleansed, useful data on this file. The results are shown with visualization. 
 
+### Data Set 
+
 * Twitter Data:<br>
 Twitter data is gathered about related stocks and cryptocurrencies. 
 
 * wallstreetbets:<br> 
-Data gathered from subreddit named wallstreetbets in this file. 
+Data gathered from subreddit named wallstreetbets in this file. (DM for this data set)
 
 * Real Time Price Data:<br>
 Real time price data for related stocks and cryptocurrencies are gathered here. 
