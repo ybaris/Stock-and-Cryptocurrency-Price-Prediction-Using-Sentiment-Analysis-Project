@@ -16,7 +16,8 @@ The key concepts are explained in the required manuals and they will be mentione
 The purpose of this study is to determine whether there is sufficient correlation between sentiment on social media, and real prices on the stock market in the U.S (New York Stock Exchange) to support stock price prediction. Social media data was gathered from Twitter and Reddit. Stocks used in this study are Apple, Tesla, Amazon, Microsoft, Google, Gamestop. Crypto currencies analyzed are Bitcoin, Ethereum, and Dogecoin. Sentiment scores were produced using the Vader Sentiment analysis. Model selection was performed using the Lazy Predict: LazyClassifier and LazyRegressor models. Results from the Lazy Predict model were analyzed and price prediction was performed using the RandomForestRegressor model from sklearn.ensemble. Results of the study reveal that the calculated mean absolute errors are low, the predicted prices are close to the actual prices, and there is a positive correlation between the sentiment and the price.
 
 ## Documentation
-Refer to Report.docx for full report with images. 
+
+Documentation found [here](https://github.com/ybaris/Stock-and-Cryptocurrency-Price-Prediction-Using-Sentiment-Analysis-Project/blob/main/Report.pdf)
 
 ## Summary of the files
 
